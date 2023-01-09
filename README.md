@@ -20,3 +20,4 @@
 * Insira URL para clone: http://www.facebook.com
 
 # Resultados
+![Alt text](./password.png "Copia de Login e Senha")
