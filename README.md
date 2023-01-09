@@ -5,4 +5,4 @@
 * setoolkit
 
 # Configurando o Phishing no Kali Linux
-* Acesse ao root do sistema: [ sudo su ]
+* Acesse ao root do sistema: [sudo su]
