@@ -17,6 +17,6 @@
 * Obtendo o endereço de IP da Máquina: ``` ipconfig ```
 > Em alguns casos o proprio sistema podera apresentar o ip após selecionar a Site Clone.
 > O IP apresentado será utilizado para acessar a página web, será necessario digita-lo na barra de enredeço
-* Insira o endereço web que deseja efetuar o Attack, conteundo o http: [http://www.facebook.com](url)
+* Insira URL para clone: http://www.facebook.com
 
 # Resultados
