@@ -5,7 +5,7 @@
 * setoolkit
 
 # Configurando o Phishing no Kali Linux
-* Acesse ao root do sistema: **sudo su**
+* Acesse ao root do sistema: ``` sudo su ```
 > Em seguida será necessario entrar com sua senha de usuario para liberar o acesso ao root.
 * Iniciando o setoolkit: **setoolkit**
 > Será apresentado a lista de opções para testes.
